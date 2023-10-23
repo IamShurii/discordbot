@@ -49,7 +49,7 @@ async def on_message(message):
     else:
         await send_message(message, user_message, is_private=False)
 
-TOKEN = 'MTA5ODc3MTAwNDUyNTkyMDQ0Nw.GOcADp.VhZB4LR-X8bnwzyqE1te0L6RoOLZ7H7CE9brso'
+TOKEN = 'olaaa'
 client.run(TOKEN)
 
 
