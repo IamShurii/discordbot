@@ -1,0 +1,3 @@
+import bot
+
+needs = 'token'
