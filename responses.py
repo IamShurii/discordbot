@@ -2,8 +2,11 @@ import random
 import discord 
 import bot as bt
 
-respostas = {0:'Smt',1:'Cala a boca', 2:'So fala merda', 3 : 'Te odeio' ,
-             
+respostas = {
+  0:'Smt',
+  1:'Cala a boca', 
+  2:'So fala merda', 
+  3 : 'Te odeio' ,         
 4: 'Comi seu pai enquanto sua mãe assistia ',
  5: 'Vc e tao feio que se vc olhar no espelho ele quebra',
  6: 'É por isso que ninguem te ama ',
